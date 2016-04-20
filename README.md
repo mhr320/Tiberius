@@ -1,5 +1,6 @@
 # Tiberius
-A solar panel powered monitoring system.
+
+A solar panel power monitoring system.
 
 Particle Photon WiFi MCU
 Texas Instruments IN219 Current Sensor
